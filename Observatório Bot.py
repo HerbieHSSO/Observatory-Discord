@@ -10,7 +10,7 @@ from discord.ext import commands
 
 client = discord.Client()
 
-TOKEN = 'NzIwMDU1Nzk4MDQ2MzkyNDUw.XuA7hA.aUmePB8rLp9Oy5aW6Vu5XgDlBFw'
+TOKEN = ''
 
 
 @client.event
